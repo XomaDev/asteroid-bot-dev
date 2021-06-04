@@ -25,4 +25,3 @@ melted <fruit>
 cmd ('python slap.py <t>')
 just see: <p> and <t> works in same company. <p> slaps <t> by cmd CTRL C of his files, then CTRL V on <p>'s computer,
 bm90aGluZywgaWRrIHdoeSB5b3UgZGVjb2RlZCB0aGlzIGJydWg=
-aa
